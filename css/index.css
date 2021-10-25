@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  width: 786px;
+  height: 660px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  background-color: #a52a2a;
+  color: #ffffff;
+  margin-top: 26px;
+  margin-bottom: 22px;
+}
+
+.main_img {
+  margin: 0 12px;
+}
+
+p {
+  padding-left: 10px;
+}
+
+.first_article {
+  padding-top: 22px;
+}
+
+.footer_article {
+  padding-top: 20px;
+}
+
+.car_img {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.car_img img {
+  border: 4px dashed;
+}
+
+h3 {
+  text-align: center;
+  background-color: #000000;
+  color: #ffffff;
+  margin-top: 36px;
+}
